@@ -25,3 +25,5 @@ yarn.lock
 
 *.tsbuildinfo
 dist
+
+*.pid

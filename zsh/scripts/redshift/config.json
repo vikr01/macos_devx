@@ -1,0 +1,8 @@
+{
+  "bright": "07:00",
+  "transition_to_night": "20:00",
+  "night": "23:00",
+  "transition_to_bright": "09:00",
+  "redshift_apply_interval_minutes": 5,
+  "override_check_interval_minutes": 2
+}
